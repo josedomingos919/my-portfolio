@@ -4,7 +4,7 @@ const Services = () => {
   return (
     <div className="pt-16 pb-16">
       <h1 className="text-center text-2xl md:text-4xl xl:text-5xl font-bold text-white  ">
-        Aplicando conhecimentos <br />e gerando resultados impactantes
+        Aplicando conhecimento <br />e gerando resultados impactantes
       </h1>
       <div className="w-[90%] sm:w-[70%] mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-10 mt-20 items-center">
         <ServiceCard
